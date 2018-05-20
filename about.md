@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Blogger from United States
+
 
 ### More Information
 
